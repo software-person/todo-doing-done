@@ -146,7 +146,7 @@ onBeforeUnmount(() => {
           :src="logo"
         >
       </a>
-      <span>{{ 'Todo Doing Done' }}</span>
+      <span>{{ 'Todo Doing Don' }}</span>
       <button
         class="form-button"
         title="New Todo"
